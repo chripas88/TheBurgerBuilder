@@ -1,68 +1,93 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# README
 
-## Available Scripts
+The Burger Builder (vanilla) project is part of the Udemy Course: React - The Complete Guide (incl Hooks, React Router, Redux)
+and was created following the instructions provided in the course.
 
-In the project directory, you can run:
+The Burger Builder (vanilla) project was created using:
 
-### `npm start`
+* React v16
+* React Router
+* CSS3 modules
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Additional libraries:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+* axios
+* prop-types
+* react-router-dom
 
-### `npm test`
+Production environment:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Heroku ( https://theburgerbuilder.herokuapp.com/ )
 
-### `npm run build`
+Creation log:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Setting up basic The Burger Builder features
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* Setting up the Project 
+* Creating a Layout Component
+* Starting Implementation of The Burger Builder Container
+* Adding a Dynamic Ingredient Component 
+* Adding Prop Type Validation
+* Starting the Burger Component 
+* Outputting Burger Ingredients Dynamically 
+* Calculating the Ingredient Sum Dynamically 
+* Adding the Build Control Component 
+* Outputting Multiple Build Controls 
+* Connecting State to Build Controls 
+* Removing Ingredients Safely 
+* Displaying and Updating the Burger Price 
+* Adding the Order Button 
+* Creating the Order Summary Modal 
+* Showing & Hiding the Modal (with Animation!) 
+* Implementing the Backdrop Component
+* Adding a Custom Button Component 
+* Implementing the Button Component 
+* Adding the Price to the Order Summary 
+* Adding a Toolbar 
+* Using a Logo in our Application 
+* Adding Reusable Navigation Items 
+* Creating a Responsive Sidedrawer
+* Reusing the Backdrop
+* Adding a Sidedrawer Toggle Button 
+* Adding a Hamburger Icon 
+* Prop Type Validation
+* Improving Performance
+* Using Component Lifecycle Methods
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Accessing a Server
 
-### `npm run eject`
+* Creating the Firebase Project
+* Creating the Axios Instance
+* Sending a POST Request 
+* Displaying a Spinner while Sending a Request
+* Handling Errors
+* Retrieving Data from the Backend
+* Removing Old Interceptors
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Adding Routing
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Building the Checkout Container
+* Setting Up Routing & Routes 
+* Navigating to the Checkout Page 
+* Navigating Back & To Next Page
+* Passing Ingredients via Query Params
+* Navigating to the Contact Data Component
+* Order Submission & Passing Data Between Pages
+* Adding an Orders Page 
+* Implementing Navigation Links 
+* Fetching Orders 
+* Outputting the Orders 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Forms and form validation
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* Creating a Custom Dynamic Input Component
+* Setting Up a JS Config for the Form
+* Dynamically Create Inputs based on JS Config
+* Adding a Dropdown Component 
+* Handling User Input
+* Handling Form Submission
+* Adding Custom Form Validation
+* Adding Validation Feedback 
+* Improving Visual Feedback 
+* Showing Error Messages 
+* Handling Overall Form Validity
